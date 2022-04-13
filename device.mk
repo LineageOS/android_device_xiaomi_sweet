@@ -83,9 +83,6 @@ PRODUCT_PACKAGES += \
     SweetinproWifiOverlay \
     SweetWifiOverlay
 
-# Partitions
-PRODUCT_BUILD_SUPER_PARTITION := false
-
 # Perf
 PRODUCT_PACKAGES += \
     libqti-perfd-client
