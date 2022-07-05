@@ -1,6 +1,5 @@
 runtime_resource_overlay {
     name: "SweetWifiOverlay",
     theme: "SweetWifiOverlay",
-    sdk_version: "current",
     product_specific: true
 }
