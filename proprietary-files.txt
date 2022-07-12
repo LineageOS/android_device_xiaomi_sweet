@@ -39,6 +39,7 @@ vendor/firmware/osc_rtp_24K_5s.bin
 -vendor/lib/libaudioparsers.so
 -vendor/lib/libaudioroute_ext.so
 -vendor/lib/libqtigef.so
+-vendor/lib/vndk/libxlog.so
 
 # Audio extensions
 -vendor/lib/btaudio_offload_if.so
