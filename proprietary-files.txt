@@ -4,6 +4,7 @@
 vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb
 vendor/etc/acdbdata/Forte/Forte_Codec_cal.acdb
 vendor/etc/acdbdata/Forte/Forte_General_cal.acdb
+vendor/etc/acdbdata/Forte/Forte_Global_cal.acdb
 vendor/etc/acdbdata/Forte/Forte_Handset_cal.acdb
 vendor/etc/acdbdata/Forte/Forte_Hdmi_cal.acdb
 vendor/etc/acdbdata/Forte/Forte_Headset_cal.acdb
@@ -15,9 +16,6 @@ vendor/etc/acdbdata/adsp_avs_config.acdb
 -vendor/lib/libacdbrtac.so
 -vendor/lib/libadiertac.so
 -vendor/lib/libaudcal.so
-
-# Audio ACDB - V12.5.2.0.RKFINXM-release-keys
-vendor/etc/acdbdata/Forte/Forte_Global_cal.acdb|b34ec442b87c1acb88dafd55fd86e77acbb003a3
 
 # Awinic firmware
 vendor/firmware/aw8624_haptic.bin
