@@ -1,4 +1,7 @@
 # IR
+/vendor/bin/hw/android\.hardware\.ir@1\.0-service\.xiaomi            u:object_r:hal_ir_default_exec:s0
+
+# IR devices
 /dev/ir_spi                                                          u:object_r:vendor_ir_device:s0
 
 # Proximity
