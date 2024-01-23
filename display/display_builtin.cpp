@@ -1,3 +1,8 @@
-#include <stdint.h>
+#define LOG_TAG "SDM"
 
-extern "C" void _ZN3sdm14DisplayBuiltIn14SetRefreshCustEjb(uint32_t, bool) {}
+#include <stdint.h>
+#include <log/log.h>
+
+extern "C" void _ZN3sdm14DisplayBuiltIn14SetRefreshRateEjb(uint32_t, bool) {
+    ALOGD("Skipped SetRefreshRate");
+}

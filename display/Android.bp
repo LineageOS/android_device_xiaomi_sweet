@@ -3,6 +3,8 @@ cc_library_shared {
     srcs: [
         "display_builtin.cpp"
     ],
-    required: ["libsdmcore-patch"],
+    shared_libs: [
+        "liblog"
+    ],
     vendor: true,
 }
