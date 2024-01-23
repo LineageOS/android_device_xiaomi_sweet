@@ -3,6 +3,5 @@ cc_library_shared {
     srcs: [
         "display_builtin.cpp"
     ],
-    required: ["libsdmcore-patch"],
     vendor: true,
 }

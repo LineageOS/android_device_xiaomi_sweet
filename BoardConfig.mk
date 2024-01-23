@@ -48,6 +48,11 @@ TARGET_SCREEN_DENSITY := 440
 SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/private
 BOARD_VENDOR_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
 
+# Shims
+TARGET_LD_SHIM_LIBS += \
+    /vendor/lib/hw/hwcomposer.sm6150.so|libsdmcore-shim.so \
+    /vendor/lib64/hw/hwcomposer.sm6150.so|libsdmcore-shim.so
+
 # Vendor security patch level
 VENDOR_SECURITY_PATCH := 2023-11-01
 
