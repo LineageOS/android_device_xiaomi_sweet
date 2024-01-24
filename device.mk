@@ -42,10 +42,6 @@ PRODUCT_COPY_FILES += \
 
 # NFC
 PRODUCT_PACKAGES += \
-    com.android.nfc_extras \
-    Tag
-
-PRODUCT_PACKAGES += \
     android.hardware.nfc@1.2-service
 
 PRODUCT_COPY_FILES += \
@@ -79,10 +75,6 @@ PRODUCT_PACKAGES += \
     SweetinproSettingsProvider \
     SweetinproWifiOverlay \
     SweetWifiOverlay
-
-# Perf
-PRODUCT_PACKAGES += \
-    libqti-perfd-client
 
 # Power
 PRODUCT_COPY_FILES += \
