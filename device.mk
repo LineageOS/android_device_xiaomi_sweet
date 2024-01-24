@@ -80,10 +80,6 @@ PRODUCT_PACKAGES += \
     SweetinproWifiOverlay \
     SweetWifiOverlay
 
-# Perf
-PRODUCT_PACKAGES += \
-    libqti-perfd-client
-
 # Power
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/power/powerhint.json:$(TARGET_COPY_OUT_VENDOR)/etc/powerhint.json
