@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bdc446ab_364b94b5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 22465
+      },
+      "writtenOn": "2024-02-12T20:28:26Z",
+      "side": 1,
+      "message": "It works great, but I had to move to Android.mk as that is what hwcomposer.sm6150 uses, making it not available to Android.bp files (if I\u0027m not wrong).",
+      "revId": "6c4b757c94d25b12f544b0e16613b6be48256eec",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
