@@ -1,8 +1,11 @@
 cc_library_shared {
-    name: "libsdmcore-shim",
+    name: "hwcomposer.qcom",
     srcs: [
         "display_builtin.cpp"
     ],
-    required: ["libsdmcore-patch"],
+    shared_libs: [
+        "hwcomposer.msmnile",
+    ],
+    relative_install_path: "hw",
     vendor: true,
 }
