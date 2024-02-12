@@ -16,6 +16,24 @@
       "message": "The idea of this is that the composer service loads the shim first as it has preference, and this shim loads the actual composer implementation, right? I\u0027ll check if it works.",
       "revId": "fdb0e83c0bf7ee5cda8614967adade4bae65e06f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0a8e0e2f_9e0033f1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2024-02-12T12:12:38Z",
+      "side": 1,
+      "message": "Yes, and because Android linker will use the symbol that appeared first, we should be hitting one in display/display_builtin.cpp.",
+      "parentUuid": "77fae2f0_3beb2947",
+      "revId": "fdb0e83c0bf7ee5cda8614967adade4bae65e06f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
