@@ -1,8 +1,0 @@
-cc_library_shared {
-    name: "libsdmcore-shim",
-    srcs: [
-        "display_builtin.cpp"
-    ],
-    required: ["libsdmcore-patch"],
-    vendor: true,
-}
