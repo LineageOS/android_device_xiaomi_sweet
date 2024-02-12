@@ -16,6 +16,24 @@
       "message": "can you try this instead https://review.lineageos.org/c/LineageOS/android_device_xiaomi_sweet/+/382575?",
       "revId": "6ea79b19ad3fad0bc0de88a81df66a0bdf685169",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4ce8b8e2_d94d0281",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2024-02-12T12:00:22Z",
+      "side": 1,
+      "message": "If it works, I could write a commit msg explaining why.",
+      "parentUuid": "3ae48fbc_f645760a",
+      "revId": "6ea79b19ad3fad0bc0de88a81df66a0bdf685169",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
