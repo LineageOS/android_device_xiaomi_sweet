@@ -16,6 +16,24 @@
       "message": "wrote some commit msg, feel free to do whatever you want now ^^",
       "revId": "50e49add3590d2b2e46bda18e684faa8032fa66d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "722c66c9_603cef23",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 22465
+      },
+      "writtenOn": "2024-02-12T21:05:02Z",
+      "side": 1,
+      "message": "Great, thanks for the patch!",
+      "parentUuid": "6a146c05_0c5bd9a2",
+      "revId": "50e49add3590d2b2e46bda18e684faa8032fa66d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
