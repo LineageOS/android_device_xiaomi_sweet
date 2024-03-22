@@ -25,6 +25,9 @@ ODM_MANIFEST_SWEET_FILES := \
 TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_sweet
 TARGET_RECOVERY_DEVICE_MODULES := libinit_sweet
 
+# Fingerprint override
+BUILD_FINGERPRINT := Redmi/sweet_global/sweet:13/TKQ1.221013.002/V14.0.9.0.TKFMIXM:user/release-keys
+
 # Kernel
 TARGET_KERNEL_CONFIG += vendor/sweet.config
 
