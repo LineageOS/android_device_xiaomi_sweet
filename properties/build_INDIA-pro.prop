@@ -1,0 +1,6 @@
+# Indian pro model
+ro.product.device=sweetin
+ro.product.model=M2101K6I
+ro.product.mod_device=sweetin_in_global
+ro.build.fingerprint=Redmi/sweetinpro/sweetin:13/TKQ1.221013.002/V14.0.1.0.TKFINXM:user/release-keys
+ro.build.description=sweetinpro-user 13 TKQ1.221013.002 V14.0.1.0.TKFINXM release-keys

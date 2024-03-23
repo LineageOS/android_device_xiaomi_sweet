@@ -16,3 +16,7 @@ vendor.display.override_doze_mode=1
 
 # Fluence
 ro.vendor.audio.sdk.fluencetype=fluence
+
+# Model-specific properties
+import /vendor/etc/build_${ro.boot.hwc}.prop
+import /vendor/etc/build_${ro.boot.hwc}-${ro.boot.product.hardware.sku}.prop
