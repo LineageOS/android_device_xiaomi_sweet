@@ -1,0 +1,7 @@
+# Japan model
+ro.boot.product.vendor.sku=sweet
+ro.product.device=sweet
+ro.product.model=M2101K6R
+ro.product.mod_device=sweet_global
+ro.build.fingerprint=Redmi/sweet_global/sweet:13/TKQ1.221013.002/V14.0.9.0.TKFMIXM:user/release-keys
+ro.build.description=sweet_global-user 13 TKQ1.221013.002 V14.0.9.0.TKFMIXM release-keys

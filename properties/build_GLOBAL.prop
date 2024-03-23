@@ -1,0 +1,7 @@
+# Global model
+ro.boot.product.vendor.sku=sweet
+ro.product.device=sweet
+ro.product.model=M2101K6G
+ro.product.mod_device=sweet_eea_global
+ro.build.fingerprint=Redmi/sweet_eea/sweet:13/TKQ1.221013.002/V14.0.7.0.TKFEUXM:user/release-keys
+ro.build.description=sweet_eea-user 13 TKQ1.221013.002 V14.0.7.0.TKFEUXM release-keys
