@@ -1,0 +1,5 @@
+# Japan model
+ro.boot.product.vendor.sku=sweet
+ro.product.odm.device=sweet
+ro.product.odm.model=M2101K6R
+ro.product.mod_device=sweet_global
