@@ -2,3 +2,6 @@
 elliptic.ultrasound.multiple_mics. u:object_r:elliptic_ultrasound_prop:s0
 elliptic.ultrasound.               u:object_r:vendor_sensors_prop:s0
 invn.hal                           u:object_r:vendor_sensors_prop:s0
+
+# Product properties
+ro.product.odm.mod_device          u:object_r:build_odm_prop:s0
