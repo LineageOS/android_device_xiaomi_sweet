@@ -1,2 +1,9 @@
 soong_namespace {
 }
+
+install_symlink {
+    name: "sku_sweet_audio_symlink",
+    installed_location: "etc/audio/sku_sweet",
+    symlink_target: "/vendor/etc",
+    vendor: true,
+}

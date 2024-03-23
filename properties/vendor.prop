@@ -16,3 +16,6 @@ vendor.display.override_doze_mode=1
 
 # Fluence
 ro.vendor.audio.sdk.fluencetype=fluence
+
+# System properties
+ro.product.property_source_order=odm,vendor,product,system_ext,system
