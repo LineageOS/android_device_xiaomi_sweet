@@ -5,7 +5,7 @@ ro.vendor.audio.soundfx.usb=true
 ro.vendor.audio.us.type=mius
 persist.vendor.audio.voicecall.speaker.stereo=true
 vendor.audio.feature.compr_voip.enable=false
-vendor.voice.path.for.pcm.voip=false
+vendor.voice.path.for.pcm.voip=true
 
 # Display
 ro.surface_flinger.set_idle_timer_ms=4000
