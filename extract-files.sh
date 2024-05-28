@@ -8,6 +8,9 @@
 
 function blob_fixup() {
     case "${1}" in
+        vendor/etc/init/init.batterysecret.rc)
+            sed -i "/seclabel u:r:batterysecret:s0/d" "${2}"
+            ;;
         vendor/etc/init/init.mi_thermald.rc)
             sed -i "/seclabel u:r:mi_thermald:s0/d" "${2}"
             ;;
