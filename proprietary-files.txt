@@ -339,6 +339,9 @@ vendor/etc/libnfc-nci.conf
 vendor/etc/libnfc-nxp.conf
 -vendor/lib/libpn553_fw.so:vendor/lib64/libpn553_fw.so
 
+# RIL - from Redmi Note 12 Pro 4G OS1.0.5.0.THGMIXM
+-vendor/lib64/libril-qc-hal-qmi.so|4d09446a701c398f529a3b4ad1925903de135337
+
 # Sensors
 -vendor/bin/sensors.qti
 vendor/etc/init/init.vendor.sensors.rc
