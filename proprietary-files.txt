@@ -331,9 +331,6 @@ vendor/firmware/a615_zap.mdt
 vendor/firmware/a618_gmu.bin
 vendor/firmware/a630_sqe.fw
 
-# IR
--vendor/lib64/hw/consumerir.default.so:vendor/lib64/hw/consumerir.sm6150.so
-
 # NFC
 vendor/etc/libnfc-nci.conf
 vendor/etc/libnfc-nxp.conf
