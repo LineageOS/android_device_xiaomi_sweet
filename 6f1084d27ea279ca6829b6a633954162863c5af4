@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e0fd2706_3a7bbb27",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2024-08-20T14:40:41Z",
+      "side": 1,
+      "message": "Not too sure about this. Seems fine to me but I saw someone say the screen was \"too yellowish\"",
+      "revId": "6f1084d27ea279ca6829b6a633954162863c5af4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
