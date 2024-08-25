@@ -90,7 +90,7 @@ vendor/etc/init/init.batterysecret.rc
 
 # Camera
 -vendor/lib64/hw/camera.qcom.so
--vendor/lib64/hw/com.qti.chi.override.so
+-vendor/lib64/hw/com.qti.chi.override.so;DISABLE_CHECKELF
 -vendor/lib64/libFaceGrade.so
 -vendor/lib64/libPSNPE.so
 -vendor/lib64/libSNPE.so
@@ -98,8 +98,8 @@ vendor/etc/init/init.batterysecret.rc
 -vendor/lib64/libXMFD_AgeGender.so
 -vendor/lib64/lib_sr_models.so
 -vendor/lib64/libalCFR.so
--vendor/lib64/libalLDC.so
--vendor/lib64/libalhLDC.so
+-vendor/lib64/libalLDC.so;DISABLE_CHECKELF
+-vendor/lib64/libalhLDC.so;DISABLE_CHECKELF
 -vendor/lib64/libarcdualcamsat.so
 -vendor/lib64/libarcsat.so
 -vendor/lib64/libbeauty_face_interface.so
@@ -121,14 +121,14 @@ vendor/etc/init/init.batterysecret.rc
 -vendor/lib64/libft2vendor.so
 -vendor/lib64/libhta.so
 -vendor/lib64/libhta_hexagon_runtime.so
--vendor/lib64/libhvx_interface.so
+-vendor/lib64/libhvx_interface.so;DISABLE_CHECKELF
 -vendor/lib64/libmiai_portraitsupernight.so
 -vendor/lib64/libmialgo_fs.so
 -vendor/lib64/libmialgo_ie_capture.so
--vendor/lib64/libmialgo_rfs.so
+-vendor/lib64/libmialgo_rfs.so;DISABLE_CHECKELF
 -vendor/lib64/libmialgo_sd.so
 -vendor/lib64/libmialgo_utils.so
--vendor/lib64/libmialgoengine.so
+-vendor/lib64/libmialgoengine.so;DISABLE_CHECKELF
 -vendor/lib64/libmibokeh_712.so
 -vendor/lib64/libmpbase.so
 -vendor/lib64/libmulticam_image_optical_zoom.so
@@ -162,11 +162,11 @@ vendor/lib64/mibokeh_712_opencl.bin
 -vendor/lib64/libarcsoft_dualcam_refocus_front.so
 -vendor/lib64/libarcsoft_dualcam_refocus_rear_t.so
 -vendor/lib64/libarcsoft_dualcam_refocus_rear_w.so
--vendor/lib64/libarcsoft_hta.so
+-vendor/lib64/libarcsoft_hta.so;DISABLE_CHECKELF
 -vendor/lib64/libarcsoft_portrait_lighting.so
 -vendor/lib64/libarcsoft_portrait_lighting_c.so
 -vendor/lib64/libarcsoft_preview_deflicker.so
--vendor/lib64/libarcsoft_super_night_raw.so
+-vendor/lib64/libarcsoft_super_night_raw.so;DISABLE_CHECKELF
 
 # Camera-components
 -vendor/lib64/camera/components/com.altek.node.depurple.so
