@@ -1,1 +1,0 @@
-allow hal_fingerprint_default vendor_sysfs_fingerprint:file rw_file_perms;
