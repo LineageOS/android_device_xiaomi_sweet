@@ -100,6 +100,8 @@ vendor/etc/init/init.batterysecret.rc
 -vendor/lib64/libalCFR.so
 -vendor/lib64/libalLDC.so
 -vendor/lib64/libalhLDC.so
+-vendor/lib64/libarcdualcamsat.so
+-vendor/lib64/libarcsat.so
 -vendor/lib64/libbeauty_face_interface.so
 -vendor/lib64/libc++_shared.so
 -vendor/lib64/libcamera_dirty.so
