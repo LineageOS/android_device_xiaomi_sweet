@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4781ec38_bcdab510",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2024-09-26T20:28:27Z",
+      "side": 1,
+      "message": "Hold until kernel changes are merged",
+      "revId": "9a31e9b31249bcaa6863ac2f3eef5e3c75d31e8b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
