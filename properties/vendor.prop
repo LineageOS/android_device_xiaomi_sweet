@@ -14,6 +14,11 @@ ro.surface_flinger.set_display_power_timer_ms=1000
 ro.surface_flinger.use_content_detection_for_refresh_rate=true
 vendor.display.override_doze_mode=1
 
+# Fingerprint
+persist.vendor.fingerprint.type=side
+persist.vendor.fingerprint.sensor_location=1080|990|200|local:4630946711218184577
+persist.vendor.fingerprint.sensor_modules=fortsense,fpc
+
 # Fluence
 ro.vendor.audio.sdk.fluencetype=fluence
 
