@@ -342,6 +342,7 @@ vendor/etc/libnfc-nxp.conf
 -vendor/bin/sensors.qti
 vendor/etc/init/init.vendor.sensors.rc
 vendor/etc/init/vendor.sensors.qti.rc
+-vendor/lib64/libnanopb.so
 -vendor/lib64/libsensorcal.so
 -vendor/lib64/libsensorslog.so
 -vendor/lib64/libsns_fastRPC_util.so
