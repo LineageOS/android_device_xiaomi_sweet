@@ -16,6 +16,24 @@
       "message": "We should probably set persist.vendor.fingerprint.sensor_modules to fortsense,fpc.",
       "revId": "b5d7a87e6faf86afb63ad89fe0840b579a4605ab",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3ed0f0fa_88308ccf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2024-10-05T16:45:35Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a9b31c72_766b260e",
+      "revId": "b5d7a87e6faf86afb63ad89fe0840b579a4605ab",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
