@@ -84,6 +84,7 @@ vendor/lib/vndk/libxlog.so
 # Audio extensions
 vendor/lib/btaudio_offload_if.so
 vendor/lib/liba2dpoffload.so
+vendor/lib/libcirrusspkrprot.so
 vendor/lib/libhdmiedid.so
 vendor/lib/libhfp.so
 vendor/lib/libsndmonitor.so
