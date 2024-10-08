@@ -87,7 +87,7 @@ vendor/lib/liba2dpoffload.so
 vendor/lib/libhdmiedid.so
 vendor/lib/libhfp.so
 vendor/lib/libsndmonitor.so
-vendor/lib/libspkrprot.so
+vendor/lib/libcirrusspkrprot.so
 
 # Batterysecret
 vendor/bin/batterysecret
