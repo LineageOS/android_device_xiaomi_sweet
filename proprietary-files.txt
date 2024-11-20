@@ -95,7 +95,7 @@ vendor/etc/init/init.batterysecret.rc
 
 # Camera
 vendor/lib64/hw/camera.qcom.so
-vendor/lib64/hw/com.qti.chi.override.so;DISABLE_CHECKELF
+vendor/lib64/hw/com.qti.chi.override.so
 vendor/lib64/libFaceGrade.so
 vendor/lib64/libPSNPE.so
 vendor/lib64/libSNPE.so
@@ -133,7 +133,7 @@ vendor/lib64/libmialgo_ie_capture.so
 vendor/lib64/libmialgo_rfs.so;DISABLE_CHECKELF
 vendor/lib64/libmialgo_sd.so
 vendor/lib64/libmialgo_utils.so
-vendor/lib64/libmialgoengine.so;DISABLE_CHECKELF
+vendor/lib64/libmialgoengine.so
 vendor/lib64/libmibokeh_712.so
 vendor/lib64/libmpbase.so
 vendor/lib64/libmulticam_image_optical_zoom.so
