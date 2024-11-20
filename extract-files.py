@@ -8,27 +8,17 @@ from extract_utils.fixups_blob import (
     blob_fixup,
     blob_fixups_user_type,
 )
-from extract_utils.fixups_lib import (
-    lib_fixup_remove,
-    lib_fixups,
-    lib_fixups_user_type,
-)
 from extract_utils.main import (
     ExtractUtils,
     ExtractUtilsModule,
 )
 
 namespace_imports = [
+    'hardware/qcom-caf/sm8150',
     'hardware/xiaomi',
     'vendor/qcom/opensource/display',
     'vendor/xiaomi/sm6150-common',
 ]
-
-lib_fixups: lib_fixups_user_type = {
-    **lib_fixups,
-    'libgrallocutils': lib_fixup_remove,
-}
-
 
 blob_fixups: blob_fixups_user_type = {
     'vendor/etc/init/init.batterysecret.rc': blob_fixup()
@@ -43,7 +33,6 @@ module = ExtractUtilsModule(
     'sweet',
     'xiaomi',
     blob_fixups=blob_fixups,
-    lib_fixups=lib_fixups,
     namespace_imports=namespace_imports,
 )
 
