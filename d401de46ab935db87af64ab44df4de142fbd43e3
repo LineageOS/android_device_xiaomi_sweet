@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "104fed28_071adbb8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2024-12-04T08:55:05Z",
+      "side": 1,
+      "message": "lib_fixups should be dropped entirely since gralloc was the only thing left",
+      "revId": "d401de46ab935db87af64ab44df4de142fbd43e3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
