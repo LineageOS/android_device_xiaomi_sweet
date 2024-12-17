@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "93fe3699_66664942",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2024-12-17T21:00:47Z",
+      "side": 1,
+      "message": "Seems to work fine, goes to 60hz while watching a YT video",
+      "revId": "d7334688bb72bba310ae97163e6a6b6dcabb1ae6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
