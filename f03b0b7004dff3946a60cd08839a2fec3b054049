@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4653786e_2bb30420",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 22465
+      },
+      "writtenOn": "2024-12-18T19:32:48Z",
+      "side": 1,
+      "message": "This makes the inclusion of display/Android.mk mandatory for all other targets.",
+      "revId": "f03b0b7004dff3946a60cd08839a2fec3b054049",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
