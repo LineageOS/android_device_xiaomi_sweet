@@ -51,6 +51,24 @@
       "message": "maybe commonize display?",
       "revId": "f03b0b7004dff3946a60cd08839a2fec3b054049",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "87cb65d9_61af663b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2024-12-19T17:16:06Z",
+      "side": 1,
+      "message": "Can\u0027t since the hwc target is still Android.mk and yea I missed the mk in Display",
+      "parentUuid": "b72f3f8d_4d063e8a",
+      "revId": "f03b0b7004dff3946a60cd08839a2fec3b054049",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
