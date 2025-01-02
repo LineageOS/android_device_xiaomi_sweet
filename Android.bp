@@ -1,4 +1,7 @@
 soong_namespace {
+    imports: [
+        "hardware/qcom-caf/sm8150",
+    ],
 }
 
 install_symlink {

@@ -1,0 +1,14 @@
+cc_library_shared {
+    name: "hwcomposer.sweet",
+    device_specific: true,
+    relative_install_path: "hw",
+    stem: "hwcomposer.qcom",
+
+    shared_libs: [
+        "hwcomposer.qcom",
+    ],
+
+    srcs: [
+        "display_builtin.cpp",
+    ],
+}
