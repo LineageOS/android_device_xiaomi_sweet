@@ -16,6 +16,40 @@
       "message": "Stuck at mi logo\nhttps://katb.in/ayoxozaqiju",
       "revId": "0b44002736ce02374b9229452a6f4369f14a56bb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "24b12f97_acfc142b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-01-04T21:51:39Z",
+      "side": 1,
+      "message": "and add prop `ro.hardware.hwcomposer\u003dsweet`",
+      "revId": "0b44002736ce02374b9229452a6f4369f14a56bb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7be3d2ce_17c0a215",
+        "filename": "display/Android.bp",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-01-04T21:51:39Z",
+      "side": 1,
+      "message": "remove",
+      "revId": "0b44002736ce02374b9229452a6f4369f14a56bb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
