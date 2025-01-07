@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "de7eb29b_688a3b70",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-01-07T02:42:12Z",
+      "side": 1,
+      "message": "HAL changes are merged, is this ready?",
+      "revId": "a7e37fc7ab1ae2d74ad2f8e9c86e01fffe939ea0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
