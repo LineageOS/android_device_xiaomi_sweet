@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f497e61b_2a3bb64b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2025-06-29T23:05:53Z",
+      "side": 1,
+      "message": "yet to see if this fixes the nfc crash on boot",
+      "revId": "9fb5a866e2d763b854dc4dc603b0f402d9c64b3c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
