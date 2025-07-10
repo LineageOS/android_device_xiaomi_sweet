@@ -16,6 +16,23 @@
       "message": "If this just for MiuiCamera to work I\u0027d rather not have this. Aperture seems to record front camera video just fine.",
       "revId": "8710bcd730b22cb00d57ea65f2053897f03c7978",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9c41ecfd_a372f11f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 20370
+      },
+      "writtenOn": "2025-07-10T18:06:49Z",
+      "side": 1,
+      "message": "Using libui-v34 for rhodep\u0027s vidhance blobs fixes wrong colors in Aperture video preview (red is shown as blue) and crashes/wrong colors in MotCamera4.",
+      "revId": "8710bcd730b22cb00d57ea65f2053897f03c7978",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
