@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "39784343_067a01e3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2025-07-10T16:49:41Z",
+      "side": 1,
+      "message": "If this just for MiuiCamera to work I\u0027d rather not have this. Aperture seems to record front camera video just fine.",
+      "revId": "8710bcd730b22cb00d57ea65f2053897f03c7978",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
