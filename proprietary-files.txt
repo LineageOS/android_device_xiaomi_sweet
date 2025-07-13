@@ -55,8 +55,6 @@ vendor/lib/libadiertac.so
 vendor/lib/libaudcal.so
 
 # Awinic firmware
-vendor/firmware/aw8624_haptic.bin
-vendor/firmware/aw8624_rtp.bin
 vendor/firmware/awinic/aw882xx_pid_1852_acf.bin
 vendor/firmware/awinic/aw882xx_pid_1852_monitor.bin
 vendor/firmware/awinic/aw882xx_pid_2032_acf.bin
@@ -65,16 +63,18 @@ vendor/firmware/awinic/aw882xx_rcv_reg_l.bin
 vendor/firmware/awinic/aw882xx_rcv_reg_r.bin
 vendor/firmware/awinic/aw882xx_spk_reg_l.bin
 vendor/firmware/awinic/aw882xx_spk_reg_r.bin
+vendor/firmware/aw8624_haptic.bin
+vendor/firmware/aw8624_rtp.bin
 vendor/firmware/osc_rtp_24K_5s.bin
 
 # Audio HAL
 vendor/lib/hw/audio.primary.sm6150.so
+vendor/lib/vndk/libxlog.so
 vendor/lib/libadm.so
 vendor/lib/libaudio_log_utils.so
 vendor/lib/libaudioparsers.so
 vendor/lib/libaudioroute_ext.so
 vendor/lib/libqtigef.so
-vendor/lib/vndk/libxlog.so
 
 # Audio extensions
 vendor/lib/btaudio_offload_if.so
@@ -168,6 +168,11 @@ vendor/lib64/libarcsoft_preview_deflicker.so
 vendor/lib64/libarcsoft_super_night_raw.so
 
 # Camera-components
+vendor/lib64/camera/components/etc/morpho_lowlight4.0.xml
+vendor/lib64/camera/components/etc/morpho_lowlight4.0_3hdr.xml
+vendor/lib64/camera/components/etc/morpho_lowlight4.0_adrc_high.xml
+vendor/lib64/camera/components/etc/morpho_lowlight4.0_adrc_high_1.xml
+vendor/lib64/camera/components/etc/visidon_clearshot_params.xml
 vendor/lib64/camera/components/com.altek.node.depurple.so
 vendor/lib64/camera/components/com.altek.node.distortioncorrection.so
 vendor/lib64/camera/components/com.arcsoft.node.capturebokeh.so
@@ -222,11 +227,6 @@ vendor/lib64/camera/components/com.xiaomi.node.mifilter.so
 vendor/lib64/camera/components/com.xiaomi.node.mifragment.so
 vendor/lib64/camera/components/com.xiaomi.node.mimovie.so
 vendor/lib64/camera/components/com.xiaomi.node.misegment.so
-vendor/lib64/camera/components/etc/morpho_lowlight4.0.xml
-vendor/lib64/camera/components/etc/morpho_lowlight4.0_3hdr.xml
-vendor/lib64/camera/components/etc/morpho_lowlight4.0_adrc_high.xml
-vendor/lib64/camera/components/etc/morpho_lowlight4.0_adrc_high_1.xml
-vendor/lib64/camera/components/etc/visidon_clearshot_params.xml
 vendor/lib64/camera/components/libdepthmapwrapper.so
 vendor/lib64/camera/components/libmmcamera_cac3.so
 
