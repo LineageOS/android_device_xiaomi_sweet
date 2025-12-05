@@ -71,6 +71,7 @@ blob_fixups: blob_fixups_user_type = {
     ('vendor/lib/hw/audio.primary.sm6150.so', 'vendor/lib/libaudioroute_ext.so'): blob_fixup()
         .replace_needed('libaudioroute.so', 'libaudioroute-v34.so'),
     'vendor/lib64/camera/components/com.qti.node.watermark.so': blob_fixup()
+        .add_needed('libdng_sdk_shim.so')
         .add_needed('libpiex_shim.so'),
     'vendor/lib64/camera/components/com.vidhance.node.eis.so': blob_fixup()
         .call(blob_fixup_graphic_buffer_size),
