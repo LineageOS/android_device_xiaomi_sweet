@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "17373b59_d3dc4224",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-07-28T17:12:28Z",
+      "side": 1,
+      "message": "I\u0027d rather import the vanilla NXP config and then add your edit on top.",
+      "revId": "b93d57a8c0452561e5dbdd48085edf6abe351f67",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "06983535_7935f670",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-07-28T17:12:28Z",
+      "side": 1,
+      "message": "Unrelated, shouldn\u0027t be mentioned here.",
+      "range": {
+        "startLine": 53,
+        "startChar": 5,
+        "endLine": 53,
+        "endChar": 50
+      },
+      "revId": "b93d57a8c0452561e5dbdd48085edf6abe351f67",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
