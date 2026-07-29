@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dc7a9fb0_4f849777",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2026-07-29T06:20:17Z",
+      "side": 1,
+      "message": "Refer to Bruno\u0027s comment on the other change",
+      "revId": "3e0668aa480d6e5ea55b6b60d82f96bf57e0a532",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
