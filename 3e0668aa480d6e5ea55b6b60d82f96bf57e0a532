@@ -16,6 +16,24 @@
       "message": "Refer to Bruno\u0027s comment on the other change",
       "revId": "3e0668aa480d6e5ea55b6b60d82f96bf57e0a532",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5425317b_dd71908b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 37623
+      },
+      "writtenOn": "2026-07-31T14:31:08Z",
+      "side": 1,
+      "message": "Addressed in Patchset 3: Sourced the libnfc-nxp.conf base file 1:1 from stock Xiaomi vendor blobs (https://github.com/TheMuppets/proprietary_vendor_xiaomi_sweet/blob/lineage-23.2/proprietary/vendor/etc/libnfc-nxp.conf), commented it out in proprietary-files.txt to avoid build conflicts, and appended ISO14443_4_EXTENDED_LENGTH\u003d0x01 for extended APDU support.",
+      "parentUuid": "dc7a9fb0_4f849777",
+      "revId": "3e0668aa480d6e5ea55b6b60d82f96bf57e0a532",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
